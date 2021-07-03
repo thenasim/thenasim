@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thenasim&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thenasim&show_icons=true&theme=ayu-mirage" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenasim&theme=ayu-mirage&layout=compact" />
-</a>
+</span>
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenasim&theme=ayu-mirage" />
+  <p align="center"></p>
+</span>
