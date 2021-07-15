@@ -20,7 +20,14 @@ Here are some ideas to get you started:
 
 ### Language and tools
 <p>
-<image width=20 height=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<image width=30 height=30 src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" />
+<image width=30 height=30 src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+<image width=40 height=30 src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
+<image width=30 height=30 src="https://images.ctfassets.net/23aumh6u8s0i/1IKVNqiLhNURzZXp652sEu/4379cfba19f0e19873af6074d3017f70/csharp" />
+<image width=30 height=30 src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" />
+<!--<image width=80 height=20 src="https://www.python.org/static/img/python-logo@2x.png" />-->
+<image width=30 height=30 src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
+<image width=60 height=30 src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" />
 </p>
 
 <span>
