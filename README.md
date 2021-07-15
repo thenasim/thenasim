@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <p>
 <img width=30 height=30 src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" />
 <img width=30 height=30 src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+<img width=30 height=30 src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" />
 <img width=40 height=30 src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
 <img width=30 height=30 src="https://images.ctfassets.net/23aumh6u8s0i/1IKVNqiLhNURzZXp652sEu/4379cfba19f0e19873af6074d3017f70/csharp" />
 <img width=30 height=30 src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" />
