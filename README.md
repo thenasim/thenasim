@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h4 align="center">Currently studying Computer Engineering</h4>
 
 
-🔹 Web Devloper, Student
+🔹 Web Developer, Student
 
 ### Language and tools
 <p>
