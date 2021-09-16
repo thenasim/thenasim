@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 <h4 align="center">Currently studying Computer Engineering</h4>
 
 
-🔹 Web Developer, Student
-
-### Language and tools
+### Language and tools I am familiar with
 <p>
 <img width=30 height=30 src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" />
 <img width=30 height=30 src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
