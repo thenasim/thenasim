@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi👋, This is Nasim</h1>
-<h4 align="center">Currently studying Computer Engineering</h4>
+<h4 align="center">Currently studying Computer Engineering (expected to complete in April, 2022)</h4>
 
 
 ### Language and tools I am familiar with
