@@ -32,12 +32,4 @@ Here are some ideas to get you started:
 <img width=30 height=30 src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
 </p>
 
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thenasim&show_icons=true&theme=ayu-mirage" />
-</span>
-<span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenasim&theme=ayu-mirage" />
-  <p align="center"></p>
-</span>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=thenasim&theme=ayu-mirage" alt="nasim uddin" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=thenasim)
