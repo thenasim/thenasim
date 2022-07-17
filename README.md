@@ -30,4 +30,3 @@ Here are some ideas to get you started:
 <img width=30 height=30 src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=thenasim)
